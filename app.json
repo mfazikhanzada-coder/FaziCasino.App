@@ -14,7 +14,7 @@
     "android": {
       "package": "com.fazikasino.game",
       "adaptiveIcon": {
-        "foregroundImage": "./adaptive-Icon.png",
+        "foregroundImage": "./adaptive-icon.png",
         "backgroundColor": "#000000"
       }
     },
