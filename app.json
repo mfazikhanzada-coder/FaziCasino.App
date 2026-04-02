@@ -8,6 +8,7 @@
     "android": {
       "package": "com.fazi.casino",
       "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#000000"
       }
     }
