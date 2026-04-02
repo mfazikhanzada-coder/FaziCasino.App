@@ -4,7 +4,7 @@
     "slug": "fazicasino",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./icon.png",
+    "icon": "./icon.jpeg",
     "userInterfaceStyle": "dark",
     "extra": {
       "eas": {
@@ -14,12 +14,12 @@
     "android": {
       "package": "com.fazikasino.game",
       "adaptiveIcon": {
-        "foregroundImage": "./adaptive-icon.png",
+        "foregroundImage": "./adaptive-icon.jpeg",
         "backgroundColor": "#000000"
       }
     },
     "splash": {
-      "image": "./splash.png",
+      "image": "./splash.jpeg",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     }
