@@ -5,8 +5,13 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "709bf949-816c-4ed6-a54a-a3a569a80af2"
+      }
+    },
     "android": {
-      "package": "com.fazi.casino",
+      "package": "com.fazikasino.game",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#000000"
